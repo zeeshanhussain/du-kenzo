@@ -273,6 +273,8 @@
          For example, a device with Home, Back and Menu keys would set this
          config to 7. >
     <integer name="config_deviceHardwareWakeKeys">64</integer-->
+     <!-- thuglife -->
+     <integer name="config_deviceHardwareKeys">71</integer>
 
     <!-- Control the behavior when the user long presses the home button.
             0 - Nothing
